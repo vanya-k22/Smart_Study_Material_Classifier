@@ -1,0 +1,3 @@
+algebra calculus trigonometry equations derivatives integration
+limits continuity probability statistics linear algebra
+matrices vectors eigen values eigen vectors

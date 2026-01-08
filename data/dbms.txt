@@ -1,0 +1,3 @@
+database management system sql normalization
+transactions indexing concurrency control
+acid properties joins keys

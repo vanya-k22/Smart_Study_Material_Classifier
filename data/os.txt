@@ -1,0 +1,3 @@
+operating system process scheduling threads memory management
+cpu scheduling deadlock paging segmentation
+virtual memory file system
