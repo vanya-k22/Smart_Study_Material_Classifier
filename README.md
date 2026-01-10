@@ -1,6 +1,6 @@
 # 📘 Smart Study Material Classifier
 
-## 📌 Project Description
+##  Project Description
 The Smart Study Material Classifier is a Machine Learning based application that automatically
 classifies uploaded study material PDFs into academic subjects such as **Math, Operating Systems (OS),
 Database Management Systems (DBMS), and Artificial Intelligence (AI)**.
@@ -11,7 +11,7 @@ along with a confidence score.
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 - Python
 - Streamlit (Web Interface)
 - Scikit-learn
@@ -22,7 +22,7 @@ along with a confidence score.
 
 ---
 
-## ⚙️ Core Features
+##  Core Features
 - Upload study material in PDF format
 - Automatic text extraction from PDF
 - Text preprocessing using NLP techniques
@@ -32,20 +32,20 @@ along with a confidence score.
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 Smart_Study_Material_Classifier/
  - app.py # Streamlit web application
  - train_model.py # Model training logic
- -preprocess.py # Text cleaning and preprocessing
- -requirements.txt # Project dependencies
- -README.md # Project documentation
- -data/ # Training data
- math.txt
- os.txt
- dbms.txt
- ai.txt
-screenshot_home.png # Application home screen
-screenshot_result.png # Prediction output screen
+ - preprocess.py # Text cleaning and preprocessing
+ - requirements.txt # Project dependencies
+ - README.md # Project documentation
+ - data/ # Training data
+  - math.txt
+  - os.txt
+  - dbms.txt
+  - ai.txt
+- screenshot_home.png # Application home screen
+- screenshot_result.png # Prediction output screen
 
 ## Confidence Score Logic
 
