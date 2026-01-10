@@ -34,9 +34,8 @@ along with a confidence score.
 
 ## 📂 Project Structure
 Smart_Study_Material_Classifier/
-
- -app.py # Streamlit web application
- -train_model.py # Model training logic
+ - app.py # Streamlit web application
+ - train_model.py # Model training logic
  -preprocess.py # Text cleaning and preprocessing
  -requirements.txt # Project dependencies
  -README.md # Project documentation
